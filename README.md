@@ -1,5 +1,5 @@
 
-# Predicting_Bank_Loan_Default_Using_Machine_Learning
+# Sentiment-Driven Trading Strategy With Machine Learning And NLP
 
 
 ## Overview
