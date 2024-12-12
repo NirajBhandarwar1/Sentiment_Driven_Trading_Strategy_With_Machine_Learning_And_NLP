@@ -1,5 +1,5 @@
 
-# Sentiment-Driven Trading Strategy With Machine Learning And NLP
+# Sentiment Driven Trading Strategy With Machine Learning And NLP
 
 
 ## Overview
